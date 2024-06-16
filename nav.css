@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.nav-list {
+  list-style: none;
+  gap: 41px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  align-items: center;
+}
